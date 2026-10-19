@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="254" viewBox="0 0 620 254" role="img" aria-labelledby="title desc">
+<title id="title">FinTrack</title><desc id="desc">Protótipo de aplicação financeira com upload de arquivos CSV. Python · Flask · pandas</desc>
+<rect x="1" y="1" width="618" height="252" rx="18" fill="#101d30" stroke="#30435a"/>
+<rect x="1" y="28" width="4" height="54" rx="2" fill="#5eead4"/>
+<text x="28" y="39" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="1.4">04 / WEB &amp; DADOS</text>
+<path d="M568 32H584V48M584 32L565 51" fill="none" stroke="#5eead4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="84" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">FinTrack</text>
+<text x="28" y="126" fill="#c0cfe0" font-family="Segoe UI,Arial,sans-serif" font-size="23">Protótipo de aplicação financeira</text>
+<text x="28" y="158" fill="#c0cfe0" font-family="Segoe UI,Arial,sans-serif" font-size="23">com upload de arquivos CSV.</text>
+<path d="M28 187H592" stroke="#30435a"/>
+<text x="28" y="222" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="20">Python · Flask · pandas</text>
+</svg>

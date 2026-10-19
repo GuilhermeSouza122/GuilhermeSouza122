@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="title desc">
+<title id="title">Guilherme Souza</title>
+<desc id="desc">Desenvolvimento de software, dados e inteligência artificial.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1324"/><stop offset="1" stop-color="#15283e"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#89a6c5" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1280" height="390" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="390" rx="24" fill="url(#grid)"/>
+<circle cx="1160" cy="30" r="230" fill="#5eead4" opacity=".035"/>
+<circle cx="1160" cy="30" r="170" fill="none" stroke="#5eead4" stroke-opacity=".12"/>
+<path d="M56 63H106" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
+<text x="56" y="104" fill="#5eead4" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="3">SOFTWARE · DADOS · IA</text>
+<text x="52" y="180" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="750" letter-spacing="-2">Guilherme Souza</text>
+<text x="56" y="228" fill="#c0cfe0" font-family="Segoe UI,Arial,sans-serif" font-size="25">Ideias que viram código. Dados que ganham sentido.</text>
+<rect x="56" y="276" width="316" height="43" rx="21.5" fill="#5eead4" fill-opacity=".08" stroke="#5eead4" stroke-opacity=".3"/>
+<circle cx="78" cy="297" r="4" fill="#a3e635"/>
+<text x="94" y="304" fill="#d2f6ed" font-family="Consolas,monospace" font-size="19">@GuilhermeSouza122</text>
+<g transform="translate(939 129)">
+  <rect width="270" height="190" rx="16" fill="#0b1628" stroke="#33465d"/>
+  <path d="M0 40H270" stroke="#33465d"/>
+  <circle cx="20" cy="21" r="4" fill="#5eead4"/><circle cx="35" cy="21" r="4" fill="#68829e"/><circle cx="50" cy="21" r="4" fill="#68829e"/>
+  <text x="23" y="85" fill="#5eead4" font-family="Consolas,monospace" font-size="23">&lt;construir&gt;</text>
+  <text x="39" y="121" fill="#d7e1ed" font-family="Consolas,monospace" font-size="21">aprender();</text>
+  <text x="39" y="154" fill="#a3e635" font-family="Consolas,monospace" font-size="21">evoluir();</text>
+</g>
+<rect x="56" y="365" width="1168" height="2" rx="1" fill="url(#accent)" opacity=".65"/>
+</svg>
