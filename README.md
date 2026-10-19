@@ -2,10 +2,6 @@
   <img src="assets/header.svg" alt="Guilherme Souza — Desenvolvimento de software, dados e IA" width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/avatar.png" alt="Foto de Guilherme Souza" width="160" />
-</p>
-
 <h2 align="center">Olá, eu sou o Guilherme 👋</h2>
 
 <p align="center">
